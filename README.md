@@ -57,17 +57,17 @@ Questions answered:- </br>
 - Is there a correlation between house prices and crime rates? </br>
 - Are there more Starbucks locations in higher income neighborhoods? </br>
 
-- Crime Rate and Income Correlation
-There's a negative correlation between Average Crime Rate and Average Income
-Low Income area has higher crime rate
-R value -> negative relationship.
-p-value<0.005 -> A statistically significant test result
-The stacked bar graph shows Crime Count per neighborhood for each Income Group which depicts lower income regions have higher crime rate per neighborhood.
-- Red Light Cameras Analysis
-From the graphs above, we can see that the majority of red light cameras are implemented in regions with an average income of 50-100K. Comparing this with the total number of speeding tickets per income region we see that the same income region holds the most amount of speeding tickets. We can conclude from this that red light cameras are not necessarly placed in low income regions, but more-so regions where speeding is more commonplace.
-- House Prices and Crime Rate
-It seems that there is a very weak negative correlation between crime rate and house prices.
-- Starbucks Locations Analysis
-The Number of Starbucks Stores vs. Average Income scatter plot shows that it seems that there is no correlation between starbucks stores location and income.
+#### Crime Rate and Income Correlation </br>
+There's a negative correlation between Average Crime Rate and Average Income. </br>
+Low Income area has higher crime rate. </br>
+R value -> negative relationship. </br>
+p-value<0.005 -> A statistically significant test result </br>
+The stacked bar graph shows Crime Count per neighborhood for each Income Group which depicts lower income regions have higher crime rate per neighborhood.</br>
+#### Red Light Cameras Analysis </br>
+From the graphs above, we can see that the majority of red light cameras are implemented in regions with an average income of 50-100K. Comparing this with the total number of speeding tickets per income region we see that the same income region holds the most amount of speeding tickets. We can conclude from this that red light cameras are not necessarly placed in low income regions, but more-so regions where speeding is more commonplace. </br>
+#### House Prices and Crime Rate </br>
+It seems that there is a very weak negative correlation between crime rate and house prices.</br>
+#### Starbucks Locations Analysis </br>
+The Number of Starbucks Stores vs. Average Income scatter plot shows that it seems that there is no correlation between starbucks stores location and income. </br>
 
 
