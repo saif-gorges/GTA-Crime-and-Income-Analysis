@@ -26,7 +26,7 @@ In this project we extracted, transformed, and loaded different types of dataset
 
 ## Data Engineering </br>
 
-![Data_Engineering_image](./Project-1---Crime-Demographics-and-City-Response/Resources/Data_Engineering.png) </br>
+![Data_Engineering_image](./Project-1---Crime-Demographics-and-City-Response/Graphs and Analysis/Resources/Data_Engineering.png) </br>
 
 ## Data Transformation
 - We used a Pandas functions in Jupyter Notebook to transform all CSV files, scraped data, and API request responses.
@@ -45,16 +45,29 @@ In this project we extracted, transformed, and loaded different types of dataset
 - Speeding Table
 - House Rental Prices Table
 
-## Analysis
+## Analysis and Insights
 
 Questions answered:- </br>
 - Which areas in Toronto have high average income/crime rates? </br>
 - Are there more red light cameras in lower income regions? </br>
 - How does crime rate vary for neighborhoods in different  Income Range? </br>
-![Image1image](./Project-1---Crime-Demographics-and-City-Response/Resources/Crime_Count_per_Neighborhood.PNG) </br>
-![Image2image](./Project-1---Crime-Demographics-and-City-Response/Resources/Neighborhood_Count_for_Income_Group.PNG) </br
+![Image1image](./Project-1---Crime-Demographics-and-City-Response/Graphs and Analysis/Resources/Crime_Count_per_Neighborhood.png) </br>
+![Image2image](./Project-1---Crime-Demographics-and-City-Response/Graphs and Analysis/Resources/Neighborhood_Count_for_Income_Group.png) </br>
 - Is there a higher crime rate in lower income regions? </br>
 - Is there a correlation between house prices and crime rates? </br>
 - Are there more Starbucks locations in higher income neighborhoods? </br>
+
+#### Crime Rate and Income Correlation </br>
+There's a negative correlation between Average Crime Rate and Average Income. </br>
+Low Income area has higher crime rate. </br>
+R value -> negative relationship. </br>
+p-value<0.005 -> A statistically significant test result </br>
+The stacked bar graph shows Crime Count per neighborhood for each Income Group which depicts lower income regions have higher crime rate per neighborhood.</br>
+#### Red Light Cameras Analysis </br>
+From the graphs above, we can see that the majority of red light cameras are implemented in regions with an average income of 50-100K. Comparing this with the total number of speeding tickets per income region we see that the same income region holds the most amount of speeding tickets. We can conclude from this that red light cameras are not necessarly placed in low income regions, but more-so regions where speeding is more commonplace. </br>
+#### House Prices and Crime Rate </br>
+It seems that there is a very weak negative correlation between crime rate and house prices.</br>
+#### Starbucks Locations Analysis </br>
+The Number of Starbucks Stores vs. Average Income scatter plot shows that it seems that there is no correlation between starbucks stores location and income. </br>
 
 
