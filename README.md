@@ -4,7 +4,7 @@
 _Date_: november, 12th, 2020\
 ETL - **Crime-Demographics-and-City-Response** <br/>
 
-![DataEngineering image](./Project-1---Crime-Demographics-and-City-Response/Resources/.png)
+![Toronto image](./Project-1---Crime-Demographics-and-City-Response/Resources/.png)
 
 
 ## Introduction
@@ -26,7 +26,7 @@ In this project we extracted, transformed, and loaded different types of dataset
 
 ## Data Engineering
 
-![DataEngineering image](./Project-1---Crime-Demographics-and-City-Response/Resources/Data_Engineering.png)
+![Data_Engineering_image](./Project-1---Crime-Demographics-and-City-Response/Resources/Data_Engineering.png)
 
 ## Data Transformation
 - We used a Pandas functions in Jupyter Notebook to transform all CSV files, scraped data, and API request responses.
