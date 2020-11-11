@@ -26,7 +26,7 @@ In this project we extracted, transformed, and loaded different types of dataset
 
 ## Data Engineering </br>
 
-![Data_Engineering_image](./Project-1---Crime-Demographics-and-City-Response/Resources/Data_Engineering.png) </br>
+![Data_Engineering_image](./Project-1---Crime-Demographics-and-City-Response/Graphs and Analysis/Resources/Data_Engineering.png) </br>
 
 ## Data Transformation
 - We used a Pandas functions in Jupyter Notebook to transform all CSV files, scraped data, and API request responses.
@@ -51,8 +51,8 @@ Questions answered:- </br>
 - Which areas in Toronto have high average income/crime rates? </br>
 - Are there more red light cameras in lower income regions? </br>
 - How does crime rate vary for neighborhoods in different  Income Range? </br>
-![Image1image](./Project-1---Crime-Demographics-and-City-Response/Resources/Crime_Count_per_Neighborhood.PNG) </br>
-![Image2image](./Project-1---Crime-Demographics-and-City-Response/Resources/Neighborhood_Count_for_Income_Group.PNG) </br
+![Image1image](./Project-1---Crime-Demographics-and-City-Response/Graphs and Analysis/Resources/Crime_Count_per_Neighborhood.PNG) </br>
+![Image2image](./Project-1---Crime-Demographics-and-City-Response/Graphs and Analysis/Resources/Neighborhood_Count_for_Income_Group.PNG) </br>
 - Is there a higher crime rate in lower income regions? </br>
 - Is there a correlation between house prices and crime rates? </br>
 - Are there more Starbucks locations in higher income neighborhoods? </br>
