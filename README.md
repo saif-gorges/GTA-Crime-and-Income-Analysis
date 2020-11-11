@@ -51,8 +51,8 @@ Questions answered:- </br>
 - Which areas in Toronto have high average income/crime rates? </br>
 - Are there more red light cameras in lower income regions? </br>
 - How does crime rate vary for neighborhoods in different  Income Range? </br>
-![Image1image](./Project-1---Crime-Demographics-and-City-Response/Graphs and Analysis/Resources/Crime_Count_per_Neighborhood.PNG) </br>
-![Image2image](./Project-1---Crime-Demographics-and-City-Response/Graphs and Analysis/Resources/Neighborhood_Count_for_Income_Group.PNG) </br>
+![Image1image](./Project-1---Crime-Demographics-and-City-Response/Graphs and Analysis/Resources/Crime_Count_per_Neighborhood.png) </br>
+![Image2image](./Project-1---Crime-Demographics-and-City-Response/Graphs and Analysis/Resources/Neighborhood_Count_for_Income_Group.png) </br>
 - Is there a higher crime rate in lower income regions? </br>
 - Is there a correlation between house prices and crime rates? </br>
 - Are there more Starbucks locations in higher income neighborhoods? </br>
