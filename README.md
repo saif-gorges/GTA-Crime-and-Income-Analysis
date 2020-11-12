@@ -48,22 +48,22 @@ In this project we extracted, transformed, and loaded different types of dataset
 ## Analysis and Insights
 
 Questions answered:- </br>
-* Which areas in Toronto have high average income? </br>
+* **Which areas in Toronto have high average income?** </br>
 ![income_heatmap](./Graphs_and_Analysis/Images/Average_Income_Heatmap.png) </br>
   * Answer: Midtown Neighbourhoods (i.e. Bridle Path-Sunnybrook-York Mills, Lawrence Park South) </br>
 
-- Which areas in Toronto have high crime rates? </br>
+- **Which areas in Toronto have high crime rates?** </br>
 ![crime_heatmap](./Graphs_and_Analysis/Images/Crime_Rate_Heatmap.png) </br>
   * Answer: Downtown & Northwest (i.e. Bay Street Corridor, Church-Yonge Corridor, Kensington-Chinatown) </br>
 
 
-- Are there more red light cameras in lower income regions? </br>
-- How does crime rate vary for neighborhoods in different  Income Range? </br>
+- **Are there more red light cameras in lower income regions?** </br>
+- **How does crime rate vary for neighborhoods in different  Income Range?** </br>
 ![Image1_image](./Graphs_and_Analysis/Resources/Crime_Count_per_Neighborhood.png) </br>
 ![Image2_image](./Graphs_and_Analysis/Resources/Neighborhood_Count_for_Income_Group.png) </br>
-- Is there a higher crime rate in lower income regions? </br>
-- Is there a correlation between house prices and crime rates? </br>
-- Are there more Starbucks locations in higher income neighborhoods? </br>
+- **Is there a higher crime rate in lower income regions?** </br>
+- **Is there a correlation between house prices and crime rates?** </br>
+- **Are there more Starbucks locations in higher income neighborhoods?** </br>
 
 #### Crime Rate and Income Correlation </br>
 There's a negative correlation between Average Crime Rate and Average Income. </br>
