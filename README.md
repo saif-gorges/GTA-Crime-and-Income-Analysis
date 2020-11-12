@@ -48,12 +48,13 @@ In this project we extracted, transformed, and loaded different types of dataset
 ## Analysis and Insights
 
 Questions answered:- </br>
-- Which areas in Toronto have high average income/crime rates? </br>
+* Which areas in Toronto have high average income? </br>
 ![income_heatmap](./Graphs_and_Analysis/Images/Average_Income_Heatmap.png) </br>
- * Midtown Neighbourhoods (i.e. Bridle Path-Sunnybrook-York Mills, Lawrence Park South) </br>
+  * Answer: Midtown Neighbourhoods (i.e. Bridle Path-Sunnybrook-York Mills, Lawrence Park South) </br>
 
+- Which areas in Toronto have high crime rates? </br>
 ![crime_heatmap](./Graphs_and_Analysis/Images/Crime_Rate_Heatmap.png) </br>
- * Downtown & Northwest (i.e. Bay Street Corridor, Church-Yonge Corridor, Kensington-Chinatown) </br>
+  * Answer: Downtown & Northwest (i.e. Bay Street Corridor, Church-Yonge Corridor, Kensington-Chinatown) </br>
 
 
 - Are there more red light cameras in lower income regions? </br>
