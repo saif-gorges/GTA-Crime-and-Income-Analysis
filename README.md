@@ -58,7 +58,7 @@ Questions answered:- </br>
 ![crime_heatmap](./Graphs_and_Analysis/Images/Crime_Rate_Heatmap.png) </br>
 
 - **Are there more red light cameras in lower income regions?** </br>
-
+![cameras-income](./Graphs_and_Analysis/Images/Income_Range_and_Red_Lights.png) </br>
 
 - **How does crime rate vary for neighborhoods in different  Income Range?** </br>
 ![Image1_image](./Graphs_and_Analysis/Resources/Crime_Count_per_Neighborhood.png) </br>
