@@ -61,8 +61,8 @@ Questions answered:- </br>
 ![cameras-income](./Graphs_and_Analysis/Images/Income_Range_and_Red_Lights.png) </br>
 
 - **How does crime rate vary for neighborhoods in different  Income Range?** </br>
-![Image1_image](./Graphs_and_Analysis/Resources/Crime_Count_per_Neighborhood.png) </br>
-![Image2_image](./Graphs_and_Analysis/Resources/Neighborhood_Count_for_Income_Group.png) </br>
+![Image1_image](./Graphs_and_Analysis/Images/Neighbourhood_Count_for_Income_Group.png) </br>
+![Image2_image](./Graphs_and_Analysis/Images/Neighbourhood_Count_for_Income_Group.png) </br>
 
 - **Is there a higher crime rate in lower income regions?** </br>
 
