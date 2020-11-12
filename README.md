@@ -13,14 +13,14 @@ It might be a challenge to choose where to live in Toronto when you decide to mo
 ## Data Extraction
 In this project we extracted, transformed, and loaded different types of datasets as Income, Crime, Rental House Prices, Red Light Camers, Speeding Count and Starbucks locations.
 
-- Our main sources:
- - Toronto Neighbourhood Data - Toronto City Open Data
- - Toronto Neighbourhood Income - Toronto City Open Data
- - Toronto Crime Data - Toronto City Open Data
- - Toronto House Price - Toronto City Open Data
- - Red Light Cameras - Kaggle
- - Speeding Count - ArcGIS API
- - Starbucks Locations - Kaggle
+* Our main sources:
+  * Toronto Neighbourhood Data - Toronto City Open Data
+  * Toronto Neighbourhood Income - Toronto City Open Data
+  * Toronto Crime Data - Toronto City Open Data
+  * Toronto House Price - Toronto City Open Data
+  * Red Light Cameras - Kaggle
+  * Speeding Count - ArcGIS API
+  * Starbucks Locations - Kaggle
 
 - We make an API call on
 
