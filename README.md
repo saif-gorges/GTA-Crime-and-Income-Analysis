@@ -58,12 +58,20 @@ Questions answered:- </br>
 ![crime_heatmap](./Graphs_and_Analysis/Images/Crime_Rate_Heatmap.png) </br>
 
 - **Are there more red light cameras in lower income regions?** </br>
+
+
 - **How does crime rate vary for neighborhoods in different  Income Range?** </br>
 ![Image1_image](./Graphs_and_Analysis/Resources/Crime_Count_per_Neighborhood.png) </br>
 ![Image2_image](./Graphs_and_Analysis/Resources/Neighborhood_Count_for_Income_Group.png) </br>
+
 - **Is there a higher crime rate in lower income regions?** </br>
+
+
 - **Is there a correlation between house prices and crime rates?** </br>
+![house_prices_and_crime](./Graphs_and_Analysis/Images/Total%20Average%20Crime%20Rate_vs_House%20Prices-linear_regression.png) </br>
+
 - **Are there more Starbucks locations in higher income neighborhoods?** </br>
+![starbucks_income](./Graphs_and_Analysis/Images/Total%20Number%20of%20Starbucks%20Stores_vs_Average%20Income-linear_regression.png) </br>
 
 #### Crime Rate and Income Correlation </br>
 There's a negative correlation between Average Crime Rate and Average Income. </br>
@@ -77,6 +85,10 @@ From the graphs above, we can see that the majority of red light cameras are imp
 It seems that there is a very weak negative correlation between crime rate and house prices.</br>
 #### Starbucks Locations Analysis </br>
 The Number of Starbucks Stores vs. Average Income scatter plot shows that it seems that there is no correlation between starbucks stores location and income. </br>
+#### Heat Maps Analysis
+* Looking at the heat map of Average Income by Neighbourhood, it seems that midtown neighbourhoods generally have higher average income, and Downtown and Northwest tend to have higher crime rate. 
+* Seeing the heat map of Crime Rate by Neighbourghood, it seems that downtown and northwest areas tend to have higher crime rates. 
+* The heat map of the number Starbucks stores by neighbourhood in Toronto shows stores are significantly concentrated in downtown area. Especially, in one neighbourhood called ‘Bay Street Corridor’, there are 26 stores. We can assume that foot traffic than the average income would be a more important factor for Starbucks Locations. In other words, neighbourhoods where there are a lot of offices and businesses tend to have more stores.
 
 
 ## Technologies
