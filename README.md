@@ -71,3 +71,12 @@ It seems that there is a very weak negative correlation between crime rate and h
 The Number of Starbucks Stores vs. Average Income scatter plot shows that it seems that there is no correlation between starbucks stores location and income. </br>
 
 
+## Technologies
+Project is created with:
+
+* Python 3.8
+* Jupyter Notebook
+* Pandas
+* Matplotlib
+* ArcGIS API
+* GeoPandas
