@@ -1,4 +1,4 @@
-# Project-1-Crime-Demographics-and-City-Response
+# GTA Crime and Income Analysis
 
 **Submitted By:** Dong Yi Kim | Elizabeth Salas martinez | Saif Gorges | Saloni Gupta | Sooyeon Kim </br>
 _Date_: november, 12th, 2020\
